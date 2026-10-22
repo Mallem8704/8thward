@@ -1,0 +1,1017 @@
+{
+  "ward_metadata": {
+    "municipality_en": "Kadiri",
+    "municipality_te": "కదిరి పురపాలక సంఘం",
+    "ward_number": 8,
+    "district_en": "Sri Sathya Sai District",
+    "district_te": "శ్రీ సత్యసాయి జిల్లా",
+    "assembly_constituency": "161 - Kadiri",
+    "total_voters": 2013,
+    "male_voters": 957,
+    "female_voters": 1056,
+    "other_voters": 0,
+    "total_households": 1021,
+    "qualifying_date": "01-01-2026",
+    "publication_date": "22-09-2026"
+  },
+  "phonetic_substitutions": {
+    "shaik": [
+      "sek",
+      "sheik",
+      "shake",
+      "syed",
+      "saik"
+    ],
+    "pathan": [
+      "patan",
+      "khan",
+      "pattan"
+    ],
+    "reddy": [
+      "redi",
+      "reddi",
+      "reddey"
+    ],
+    "rao": [
+      "ravu",
+      "row"
+    ],
+    "setty": [
+      "shetti",
+      "setti",
+      "chetty"
+    ],
+    "chari": [
+      "chary",
+      "aachari"
+    ],
+    "swamy": [
+      "swami",
+      "swamee"
+    ],
+    "ramulu": [
+      "ramu",
+      "ramudu",
+      "ram"
+    ],
+    "srinivasulu": [
+      "srinivas",
+      "seenappa",
+      "seenu",
+      "srinu"
+    ],
+    "venkata": "venkat",
+    "lakshmi": [
+      "laxmi",
+      "laksmi",
+      "luxmi"
+    ],
+    "subba": "subbu",
+    "ganganna": [
+      "gangi",
+      "gangappa"
+    ],
+    "basha": [
+      "baasha",
+      "baasha",
+      "basa"
+    ],
+    "saheb": [
+      "sab",
+      "saab",
+      "sahib"
+    ],
+    "vali": [
+      "wali",
+      "walee"
+    ]
+  },
+  "same_door_duplicates_count": 12,
+  "same_door_duplicates": [
+    {
+      "house_number": "1-1102-10",
+      "voter1": {
+        "id": "w8_voter_219",
+        "ward_serial_number": 219,
+        "voter_name_original": "డీకెఎస్హెచ్ఇఠ బోలె",
+        "voter_name_english": "Deekeeshechiath Bole",
+        "relation_type": "FATHER",
+        "relation_name_original": "నాగేంద్ర బోలె",
+        "relation_name_english": "Nagemdr Bole",
+        "age": 21,
+        "gender": "FEMALE",
+        "epic_number": "RRV2576122",
+        "section_number": "80",
+        "source_pdf_page": 12
+      },
+      "voter2": {
+        "id": "w8_voter_221",
+        "ward_serial_number": 221,
+        "voter_name_original": "డీకెఎస్హెచ్ఇఠ బోలె",
+        "voter_name_english": "Deekeeshechiath Bole",
+        "relation_type": "FATHER",
+        "relation_name_original": "నరేంద్ర బోలె",
+        "relation_name_english": "Naremdr Bole",
+        "age": 21,
+        "gender": "FEMALE",
+        "epic_number": "RRV2634806",
+        "section_number": "82",
+        "source_pdf_page": 12
+      },
+      "reason": "Same Name in Same Door"
+    },
+    {
+      "house_number": "1-1125",
+      "voter1": {
+        "id": "w8_voter_872",
+        "ward_serial_number": 872,
+        "voter_name_original": "వెంపల్లి నగరజు",
+        "voter_name_english": "Vempalli Nagaraju",
+        "relation_type": "FATHER",
+        "relation_name_original": "వీ అంజినెయులు",
+        "relation_name_english": "Vee Amjineyulu",
+        "age": 38,
+        "gender": "MALE",
+        "epic_number": "RRV2286649",
+        "section_number": "82",
+        "source_pdf_page": 36
+      },
+      "voter2": {
+        "id": "w8_voter_873",
+        "ward_serial_number": 873,
+        "voter_name_original": "వెంపల్లి నాగెంద్ర ప్రసాద్",
+        "voter_name_english": "Vempalli Nagemdr Prasad",
+        "relation_type": "FATHER",
+        "relation_name_original": "వీ అంజినెయులు",
+        "relation_name_english": "Vee Amjineyulu",
+        "age": 37,
+        "gender": "MALE",
+        "epic_number": "RRV2286656",
+        "section_number": "82",
+        "source_pdf_page": 36
+      },
+      "reason": "Same Guardian & Gender in Same Door"
+    },
+    {
+      "house_number": "1-1124-6A",
+      "voter1": {
+        "id": "w8_voter_795",
+        "ward_serial_number": 795,
+        "voter_name_original": "చందన కిన్నెర",
+        "voter_name_english": "Chmdan Kinnera",
+        "relation_type": "FATHER",
+        "relation_name_original": "ఏడుకొండలు కె",
+        "relation_name_english": "Edukomdalu Ke",
+        "age": 26,
+        "gender": "FEMALE",
+        "epic_number": "RRV1544212",
+        "section_number": "81",
+        "source_pdf_page": 33
+      },
+      "voter2": {
+        "id": "w8_voter_796",
+        "ward_serial_number": 796,
+        "voter_name_original": "దీక్షిత కిన్నెర",
+        "voter_name_english": "Deekshith Kinnera",
+        "relation_type": "FATHER",
+        "relation_name_original": "ఏడుకొండలు కె",
+        "relation_name_english": "Edukomdalu Ke",
+        "age": 26,
+        "gender": "FEMALE",
+        "epic_number": "RRV1544220",
+        "section_number": "81",
+        "source_pdf_page": 33
+      },
+      "reason": "Same Guardian & Gender in Same Door"
+    },
+    {
+      "house_number": "1-1135-6-8A",
+      "voter1": {
+        "id": "w8_voter_1806",
+        "ward_serial_number": 1806,
+        "voter_name_original": "ప్రణతి",
+        "voter_name_english": "Pranathi",
+        "relation_type": "FATHER",
+        "relation_name_original": "బాస్కర్",
+        "relation_name_english": "Baskar",
+        "age": 30,
+        "gender": "FEMALE",
+        "epic_number": "RRV1735109",
+        "section_number": "83",
+        "source_pdf_page": 70
+      },
+      "voter2": {
+        "id": "w8_voter_1807",
+        "ward_serial_number": 1807,
+        "voter_name_original": "ప్రతిభ",
+        "voter_name_english": "Prathibh",
+        "relation_type": "FATHER",
+        "relation_name_original": "బాస్కర్",
+        "relation_name_english": "Baskar",
+        "age": 29,
+        "gender": "FEMALE",
+        "epic_number": "RRV1735117",
+        "section_number": "83",
+        "source_pdf_page": 70
+      },
+      "reason": "Same Guardian & Gender in Same Door"
+    },
+    {
+      "house_number": "1/1125-54-59A",
+      "voter1": {
+        "id": "w8_voter_1529",
+        "ward_serial_number": 1529,
+        "voter_name_original": "ఫైరోజ్ టైలర్",
+        "voter_name_english": "Phairoj Tailar",
+        "relation_type": "FATHER",
+        "relation_name_original": "మున్వర్ ఖాన్ టైలర్",
+        "relation_name_english": "Munvar Khan Tailar",
+        "age": 40,
+        "gender": "MALE",
+        "epic_number": "RRV1255299",
+        "section_number": "80",
+        "source_pdf_page": 60
+      },
+      "voter2": {
+        "id": "w8_voter_1530",
+        "ward_serial_number": 1530,
+        "voter_name_original": "యూనుస్ ఖాన్ టీ",
+        "voter_name_english": "Yoonus Khan Tee",
+        "relation_type": "FATHER",
+        "relation_name_original": "మున్వర్ ఖాన్ టైలర్",
+        "relation_name_english": "Munvar Khan Tailar",
+        "age": 39,
+        "gender": "MALE",
+        "epic_number": "RRV1255232",
+        "section_number": "80",
+        "source_pdf_page": 60
+      },
+      "reason": "Same Guardian & Gender in Same Door"
+    },
+    {
+      "house_number": "1-1124-4A2",
+      "voter1": {
+        "id": "w8_voter_744",
+        "ward_serial_number": 744,
+        "voter_name_original": "మనొబాలా సునీల్ నాయక్ ఏన్ద్రావథ",
+        "voter_name_english": "Manobala Sunil Nayak Endravath",
+        "relation_type": "MOTHER",
+        "relation_name_original": "సునీత బాయి ఏన్ద్రావథ",
+        "relation_name_english": "Sunitha Bayi Endravath",
+        "age": 21,
+        "gender": "MALE",
+        "epic_number": "RRV2360311",
+        "section_number": "82",
+        "source_pdf_page": 31
+      },
+      "voter2": {
+        "id": "w8_voter_745",
+        "ward_serial_number": 745,
+        "voter_name_original": "మనొబాలా సునీల్ నాయక్ ఏన్ద్రావథ",
+        "voter_name_english": "Manobala Sunil Nayak Endravath",
+        "relation_type": "FATHER",
+        "relation_name_original": "బాలు నాయక్ ఏన్ద్రావథ",
+        "relation_name_english": "Balu Nayak Endravath",
+        "age": 21,
+        "gender": "MALE",
+        "epic_number": "RRV2380590",
+        "section_number": "82",
+        "source_pdf_page": 31
+      },
+      "reason": "Same Name in Same Door"
+    },
+    {
+      "house_number": "1-1125-30-50",
+      "voter1": {
+        "id": "w8_voter_1377",
+        "ward_serial_number": 1377,
+        "voter_name_original": "సాయి సూకీర్తి ఈతోటి",
+        "voter_name_english": "Sai Sookeerthi Eethoti",
+        "relation_type": "FATHER",
+        "relation_name_original": "రవీందర్ రెడ్డి ఈ",
+        "relation_name_english": "Raveemdar Reddy Ee",
+        "age": 28,
+        "gender": "FEMALE",
+        "epic_number": "RRV1545490",
+        "section_number": "81",
+        "source_pdf_page": 54
+      },
+      "voter2": {
+        "id": "w8_voter_1378",
+        "ward_serial_number": 1378,
+        "voter_name_original": "మిటిలి ఈతోటి",
+        "voter_name_english": "Mitili Eethoti",
+        "relation_type": "FATHER",
+        "relation_name_original": "రవీందర్ రెడ్డి ఈ",
+        "relation_name_english": "Raveemdar Reddy Ee",
+        "age": 26,
+        "gender": "FEMALE",
+        "epic_number": "RRV1545508",
+        "section_number": "81",
+        "source_pdf_page": 55
+      },
+      "reason": "Same Guardian & Gender in Same Door"
+    },
+    {
+      "house_number": "1-1125-1B",
+      "voter1": {
+        "id": "w8_voter_1089",
+        "ward_serial_number": 1089,
+        "voter_name_original": "ప్రసన్నకుమార్ సాకే",
+        "voter_name_english": "Prasannakumar Sake",
+        "relation_type": "FATHER",
+        "relation_name_original": "జనార్ధన యెస్",
+        "relation_name_english": "Janardhan Yes",
+        "age": 27,
+        "gender": "MALE",
+        "epic_number": "RRV1544402",
+        "section_number": "81",
+        "source_pdf_page": 44
+      },
+      "voter2": {
+        "id": "w8_voter_1090",
+        "ward_serial_number": 1090,
+        "voter_name_original": "ప్రాావీణ్కుమార్ సాకే",
+        "voter_name_english": "Praveenkumar Sake",
+        "relation_type": "FATHER",
+        "relation_name_original": "జనార్ధన యెస్",
+        "relation_name_english": "Janardhan Yes",
+        "age": 27,
+        "gender": "MALE",
+        "epic_number": "RRV1544410",
+        "section_number": "81",
+        "source_pdf_page": 44
+      },
+      "reason": "Same Guardian & Gender in Same Door"
+    },
+    {
+      "house_number": "1-1125-K-20",
+      "voter1": {
+        "id": "w8_voter_974",
+        "ward_serial_number": 974,
+        "voter_name_original": "ఆర పవన్ కుమార్",
+        "voter_name_english": "Ar Pavan Kumar",
+        "relation_type": "FATHER",
+        "relation_name_original": "ఆర వెంకటరమణ",
+        "relation_name_english": "Ar Venkataramana",
+        "age": 28,
+        "gender": "MALE",
+        "epic_number": "RRV1803063",
+        "section_number": "81",
+        "source_pdf_page": 40
+      },
+      "voter2": {
+        "id": "w8_voter_975",
+        "ward_serial_number": 975,
+        "voter_name_original": "ఆర హరి కుమార్",
+        "voter_name_english": "Ar Hari Kumar",
+        "relation_type": "FATHER",
+        "relation_name_original": "ఆర వెంకటరమణ",
+        "relation_name_english": "Ar Venkataramana",
+        "age": 26,
+        "gender": "MALE",
+        "epic_number": "RRV1803097",
+        "section_number": "81",
+        "source_pdf_page": 40
+      },
+      "reason": "Same Guardian & Gender in Same Door"
+    },
+    {
+      "house_number": "1-1113-1",
+      "voter1": {
+        "id": "w8_voter_407",
+        "ward_serial_number": 407,
+        "voter_name_original": "బిలాల్ కొత్తకోట",
+        "voter_name_english": "Bilal Kothakota",
+        "relation_type": "FATHER",
+        "relation_name_original": "రహంతుళ్ళ కె",
+        "relation_name_english": "Rahmthull Ke",
+        "age": 26,
+        "gender": "MALE",
+        "epic_number": "RRV1543776",
+        "section_number": "80",
+        "source_pdf_page": 19
+      },
+      "voter2": {
+        "id": "w8_voter_408",
+        "ward_serial_number": 408,
+        "voter_name_original": "బిలాల్ కొత్తకోట",
+        "voter_name_english": "Bilal Kothakota",
+        "relation_type": "FATHER",
+        "relation_name_original": "రహమతూల్లా కొత్తకోట",
+        "relation_name_english": "Rahamathoolla Kothakota",
+        "age": 26,
+        "gender": "MALE",
+        "epic_number": "RRV1612944",
+        "section_number": "81",
+        "source_pdf_page": 19
+      },
+      "reason": "Same Name in Same Door"
+    },
+    {
+      "house_number": "1-1125-11A",
+      "voter1": {
+        "id": "w8_voter_1308",
+        "ward_serial_number": 1308,
+        "voter_name_original": "తులసి రాం ఆనందం",
+        "voter_name_english": "Thulasi Ram Anmdm",
+        "relation_type": "FATHER",
+        "relation_name_original": "ఆనందం వెంకటరమణ",
+        "relation_name_english": "Anmdm Venkataramana",
+        "age": 35,
+        "gender": "MALE",
+        "epic_number": "RRV1810555",
+        "section_number": "81",
+        "source_pdf_page": 52
+      },
+      "voter2": {
+        "id": "w8_voter_1309",
+        "ward_serial_number": 1309,
+        "voter_name_original": "తులసి రాం ఆనందం",
+        "voter_name_english": "Thulasi Ram Anmdm",
+        "relation_type": "MOTHER",
+        "relation_name_original": "సుబ్బమ్మ ఆనందం",
+        "relation_name_english": "Subbamm Anmdm",
+        "age": 35,
+        "gender": "MALE",
+        "epic_number": "RRV1828888",
+        "section_number": "81",
+        "source_pdf_page": 52
+      },
+      "reason": "Same Name in Same Door"
+    },
+    {
+      "house_number": "1/1113/2C",
+      "voter1": {
+        "id": "w8_voter_411",
+        "ward_serial_number": 411,
+        "voter_name_original": "ప్రణీత్ కుమార్ సొమేసూలా",
+        "voter_name_english": "Praneeth Kumar Somesula",
+        "relation_type": "FATHER",
+        "relation_name_original": "హర గోపాలయ్య సొమేసూలా",
+        "relation_name_english": "Har Gopalayy Somesula",
+        "age": 42,
+        "gender": "MALE",
+        "epic_number": "RRV1864313",
+        "section_number": "87",
+        "source_pdf_page": 19
+      },
+      "voter2": {
+        "id": "w8_voter_412",
+        "ward_serial_number": 412,
+        "voter_name_original": "ప్రణీత్ కుమార్ సొమేసూలా",
+        "voter_name_english": "Praneeth Kumar Somesula",
+        "relation_type": "FATHER",
+        "relation_name_original": "హర గోపాలయ్య ఏస",
+        "relation_name_english": "Har Gopalayy Es",
+        "age": 43,
+        "gender": "MALE",
+        "epic_number": "RRV1915537",
+        "section_number": "80",
+        "source_pdf_page": 19
+      },
+      "reason": "Same Name in Same Door"
+    }
+  ],
+  "cross_door_clusters_count": 15,
+  "cross_door_clusters": [
+    {
+      "name_original": "బాబ్జాన్ షేక్",
+      "name_english": "Babjan Shaik",
+      "voter_count": 3,
+      "doors": [
+        "1/1123-3EA",
+        "1/1125-6-12",
+        "1/1125-3E-5"
+      ],
+      "voters": [
+        {
+          "id": "w8_voter_640",
+          "ward_serial_number": 640,
+          "epic_number": "RRV1237859",
+          "age": 41,
+          "gender": "MALE",
+          "house_number": "1/1123-3EA",
+          "relation_type": "FATHER",
+          "relation_name": "Bashu Saheb Shaik",
+          "locality_name": "అడపాల స్ట్రీట్ / Adapala Street",
+          "source_pdf_page": 27
+        },
+        {
+          "id": "w8_voter_1162",
+          "ward_serial_number": 1162,
+          "epic_number": "RRV1277012",
+          "age": 41,
+          "gender": "MALE",
+          "house_number": "1/1125-3E-5",
+          "relation_type": "FATHER",
+          "relation_name": "Rahmthull Shaik",
+          "locality_name": "అడపాల స్ట్రీట్ / Adapala Street",
+          "source_pdf_page": 47
+        },
+        {
+          "id": "w8_voter_1251",
+          "ward_serial_number": 1251,
+          "epic_number": "RRV1415414",
+          "age": 39,
+          "gender": "MALE",
+          "house_number": "1/1125-6-12",
+          "relation_type": "FATHER",
+          "relation_name": "Makbool Shaik",
+          "locality_name": "అడపాల స్ట్రీట్ / Adapala Street",
+          "source_pdf_page": 50
+        }
+      ]
+    },
+    {
+      "name_original": "షాకిర్ షైక్",
+      "name_english": "Shakir Shaik",
+      "voter_count": 2,
+      "doors": [
+        "1-1125-3-G-5",
+        "1-1102-2"
+      ],
+      "voters": [
+        {
+          "id": "w8_voter_169",
+          "ward_serial_number": 169,
+          "epic_number": "RRV1544667",
+          "age": 44,
+          "gender": "MALE",
+          "house_number": "1-1102-2",
+          "relation_type": "FATHER",
+          "relation_name": "Subahan Shaik",
+          "locality_name": "అడపాల స్ట్రీట్ / Adapala Street",
+          "source_pdf_page": 10
+        },
+        {
+          "id": "w8_voter_1152",
+          "ward_serial_number": 1152,
+          "epic_number": "RRV1545268",
+          "age": 40,
+          "gender": "MALE",
+          "house_number": "1-1125-3-G-5",
+          "relation_type": "FATHER",
+          "relation_name": "Khasumpeera Shaik",
+          "locality_name": "వాటర్ ట్యాంక్ రోడ్డు / Water Tank Road",
+          "source_pdf_page": 46
+        }
+      ]
+    },
+    {
+      "name_original": "పార్వతమ్మ",
+      "name_english": "Parvathamma",
+      "voter_count": 2,
+      "doors": [
+        "1-1102-10B",
+        "1-1135-6-8A"
+      ],
+      "voters": [
+        {
+          "id": "w8_voter_276",
+          "ward_serial_number": 276,
+          "epic_number": "RRV0546564",
+          "age": 59,
+          "gender": "FEMALE",
+          "house_number": "1-1102-10B",
+          "relation_type": "HUSBAND",
+          "relation_name": "Ke.shreeramulu",
+          "locality_name": "అడపాల స్ట్రీట్ / Adapala Street",
+          "source_pdf_page": 14
+        },
+        {
+          "id": "w8_voter_1803",
+          "ward_serial_number": 1803,
+          "epic_number": "RRV1735075",
+          "age": 58,
+          "gender": "FEMALE",
+          "house_number": "1-1135-6-8A",
+          "relation_type": "HUSBAND",
+          "relation_name": "Bhaskar",
+          "locality_name": "అడపాల స్ట్రీట్ / Adapala Street",
+          "source_pdf_page": 70
+        }
+      ]
+    },
+    {
+      "name_original": "పి.పద్మావతి",
+      "name_english": "Pi.padmavathi",
+      "voter_count": 2,
+      "doors": [
+        "1-1189-1H",
+        "1/1102-103-A1"
+      ],
+      "voters": [
+        {
+          "id": "w8_voter_317",
+          "ward_serial_number": 317,
+          "epic_number": "MXK2480721",
+          "age": 50,
+          "gender": "FEMALE",
+          "house_number": "1/1102-103-A1",
+          "relation_type": "HUSBAND",
+          "relation_name": "Pi.ramamoorthi",
+          "locality_name": "అడపాల స్ట్రీట్ / Adapala Street",
+          "source_pdf_page": 15
+        },
+        {
+          "id": "w8_voter_1981",
+          "ward_serial_number": 1981,
+          "epic_number": "MXK2690196",
+          "age": 42,
+          "gender": "FEMALE",
+          "house_number": "1-1189-1H",
+          "relation_type": "HUSBAND",
+          "relation_name": "Pi.raman",
+          "locality_name": "అడపాల స్ట్రీట్ / Adapala Street",
+          "source_pdf_page": 77
+        }
+      ]
+    },
+    {
+      "name_original": "పి.రత్నమ్మ",
+      "name_english": "Pi.rathnamm",
+      "voter_count": 2,
+      "doors": [
+        "1/1125-N3C",
+        "1-1114-3"
+      ],
+      "voters": [
+        {
+          "id": "w8_voter_416",
+          "ward_serial_number": 416,
+          "epic_number": "MXK0563890",
+          "age": 52,
+          "gender": "FEMALE",
+          "house_number": "1-1114-3",
+          "relation_type": "HUSBAND",
+          "relation_name": "Pi.ramachmdr",
+          "locality_name": "అడపాల స్ట్రీట్ / Adapala Street",
+          "source_pdf_page": 19
+        },
+        {
+          "id": "w8_voter_1029",
+          "ward_serial_number": 1029,
+          "epic_number": "MXK2734101",
+          "age": 49,
+          "gender": "FEMALE",
+          "house_number": "1/1125-N3C",
+          "relation_type": "HUSBAND",
+          "relation_name": "Pee.amjaneyulu",
+          "locality_name": "అడపాల స్ట్రీట్ / Adapala Street",
+          "source_pdf_page": 42
+        }
+      ]
+    },
+    {
+      "name_original": "కె.శివమ్మ",
+      "name_english": "Ke.shivamm",
+      "voter_count": 2,
+      "doors": [
+        "1/1121-M",
+        "1/1125-51"
+      ],
+      "voters": [
+        {
+          "id": "w8_voter_468",
+          "ward_serial_number": 468,
+          "epic_number": "MXK2480549",
+          "age": 54,
+          "gender": "FEMALE",
+          "house_number": "1/1121-M",
+          "relation_type": "HUSBAND",
+          "relation_name": "Ke.ramesh Babu",
+          "locality_name": "అడపాల స్ట్రీట్ / Adapala Street",
+          "source_pdf_page": 21
+        },
+        {
+          "id": "w8_voter_1432",
+          "ward_serial_number": 1432,
+          "epic_number": "MXK1037993",
+          "age": 55,
+          "gender": "MALE",
+          "house_number": "1/1125-51",
+          "relation_type": "FATHER",
+          "relation_name": "Ke.je.reddapp",
+          "locality_name": "అడపాల స్ట్రీట్ / Adapala Street",
+          "source_pdf_page": 57
+        }
+      ]
+    },
+    {
+      "name_original": "అమ్మజాన్ షైక్",
+      "name_english": "Ammajan Shaik",
+      "voter_count": 2,
+      "doors": [
+        "1/1122-12",
+        "1-1122/1GA"
+      ],
+      "voters": [
+        {
+          "id": "w8_voter_547",
+          "ward_serial_number": 547,
+          "epic_number": "RRV1543875",
+          "age": 36,
+          "gender": "FEMALE",
+          "house_number": "1-1122/1GA",
+          "relation_type": "FATHER",
+          "relation_name": "Mahaboob Basha Shaik",
+          "locality_name": "అడపాల స్ట్రీట్ / Adapala Street",
+          "source_pdf_page": 24
+        },
+        {
+          "id": "w8_voter_587",
+          "ward_serial_number": 587,
+          "epic_number": "RRV0742692",
+          "age": 38,
+          "gender": "FEMALE",
+          "house_number": "1/1122-12",
+          "relation_type": "HUSBAND",
+          "relation_name": "Mabash Shaik",
+          "locality_name": "అడపాల స్ట్రీట్ / Adapala Street",
+          "source_pdf_page": 25
+        }
+      ]
+    },
+    {
+      "name_original": "ఇమ్రాాన్ ఖాన్ పఠాన్",
+      "name_english": "Imran Khan Pathan",
+      "voter_count": 2,
+      "doors": [
+        "1-1123-2",
+        "1-1125-1DE-3-1"
+      ],
+      "voters": [
+        {
+          "id": "w8_voter_629",
+          "ward_serial_number": 629,
+          "epic_number": "RRV1544048",
+          "age": 32,
+          "gender": "MALE",
+          "house_number": "1-1123-2",
+          "relation_type": "FATHER",
+          "relation_name": "Mahaboob Basha Pathan",
+          "locality_name": "అడపాల స్ట్రీట్ / Adapala Street",
+          "source_pdf_page": 27
+        },
+        {
+          "id": "w8_voter_1105",
+          "ward_serial_number": 1105,
+          "epic_number": "RRV2568285",
+          "age": 31,
+          "gender": "MALE",
+          "house_number": "1-1125-1DE-3-1",
+          "relation_type": "FATHER",
+          "relation_name": "Mahaboob Basha Pathan",
+          "locality_name": "అడపాల స్ట్రీట్ / Adapala Street",
+          "source_pdf_page": 44
+        }
+      ]
+    },
+    {
+      "name_original": "పూల చంద్ర శేఖర్",
+      "name_english": "Pool Chmdr Sekhar",
+      "voter_count": 2,
+      "doors": [
+        "1/1124-4",
+        "1-1124-4-6"
+      ],
+      "voters": [
+        {
+          "id": "w8_voter_697",
+          "ward_serial_number": 697,
+          "epic_number": "RRV0617423",
+          "age": 36,
+          "gender": "MALE",
+          "house_number": "1/1124-4",
+          "relation_type": "FATHER",
+          "relation_name": "Pee Vemkataraman",
+          "locality_name": "అడపాల స్ట్రీట్ / Adapala Street",
+          "source_pdf_page": 29
+        },
+        {
+          "id": "w8_voter_727",
+          "ward_serial_number": 727,
+          "epic_number": "RRV0901108",
+          "age": 34,
+          "gender": "MALE",
+          "house_number": "1-1124-4-6",
+          "relation_type": "FATHER",
+          "relation_name": "Pool Vemkataraman",
+          "locality_name": "అడపాల స్ట్రీట్ / Adapala Street",
+          "source_pdf_page": 30
+        }
+      ]
+    },
+    {
+      "name_original": "షేక్ మహబూబ్ బాష",
+      "name_english": "Shaik Mahaboob Basha",
+      "voter_count": 2,
+      "doors": [
+        "1-1124-5-A",
+        "1-1133-2"
+      ],
+      "voters": [
+        {
+          "id": "w8_voter_773",
+          "ward_serial_number": 773,
+          "epic_number": "RRV2602548",
+          "age": 74,
+          "gender": "MALE",
+          "house_number": "1-1124-5-A",
+          "relation_type": "FATHER",
+          "relation_name": "Fakruddin",
+          "locality_name": "అడపాల స్ట్రీట్ / Adapala Street",
+          "source_pdf_page": 32
+        },
+        {
+          "id": "w8_voter_1739",
+          "ward_serial_number": 1739,
+          "epic_number": "RRV1675073",
+          "age": 54,
+          "gender": "MALE",
+          "house_number": "1-1133-2",
+          "relation_type": "FATHER",
+          "relation_name": "Kareem Saheb",
+          "locality_name": "అడపాల స్ట్రీట్ / Adapala Street",
+          "source_pdf_page": 68
+        }
+      ]
+    },
+    {
+      "name_original": "కిన్నెర. సరస్వతమ్మ",
+      "name_english": "Kinnera. Saraswathamma",
+      "voter_count": 2,
+      "doors": [
+        "1-1124-6A",
+        "1-1125-4F"
+      ],
+      "voters": [
+        {
+          "id": "w8_voter_793",
+          "ward_serial_number": 793,
+          "epic_number": "MXK0564104",
+          "age": 46,
+          "gender": "FEMALE",
+          "house_number": "1-1124-6A",
+          "relation_type": "HUSBAND",
+          "relation_name": "Kinnera Edukomdalu",
+          "locality_name": "అడపాల స్ట్రీట్ / Adapala Street",
+          "source_pdf_page": 33
+        },
+        {
+          "id": "w8_voter_1222",
+          "ward_serial_number": 1222,
+          "epic_number": "MXK0564088",
+          "age": 70,
+          "gender": "FEMALE",
+          "house_number": "1-1125-4F",
+          "relation_type": "HUSBAND",
+          "relation_name": "Kinnera .ramamoorthi",
+          "locality_name": "అడపాల స్ట్రీట్ / Adapala Street",
+          "source_pdf_page": 49
+        }
+      ]
+    },
+    {
+      "name_original": "అఖిల షైక్",
+      "name_english": "Akhil Shaik",
+      "voter_count": 2,
+      "doors": [
+        "1-1125-D1",
+        "1/1125P/1"
+      ],
+      "voters": [
+        {
+          "id": "w8_voter_926",
+          "ward_serial_number": 926,
+          "epic_number": "RRV0483537",
+          "age": 35,
+          "gender": "FEMALE",
+          "house_number": "1-1125-D1",
+          "relation_type": "FATHER",
+          "relation_name": "Ilahi Shaik",
+          "locality_name": "అడపాల స్ట్రీట్ / Adapala Street",
+          "source_pdf_page": 38
+        },
+        {
+          "id": "w8_voter_1602",
+          "ward_serial_number": 1602,
+          "epic_number": "RRV0642801",
+          "age": 35,
+          "gender": "FEMALE",
+          "house_number": "1/1125P/1",
+          "relation_type": "HUSBAND",
+          "relation_name": "Badal Val Shaik",
+          "locality_name": "అడపాల స్ట్రీట్ / Adapala Street",
+          "source_pdf_page": 63
+        }
+      ]
+    },
+    {
+      "name_original": "ఎర్రగుండ్ల గంగులమ్మ",
+      "name_english": "Erragumdl Gmgulamm",
+      "voter_count": 2,
+      "doors": [
+        "1/1125-E37",
+        "1-1131-JA"
+      ],
+      "voters": [
+        {
+          "id": "w8_voter_942",
+          "ward_serial_number": 942,
+          "epic_number": "RRV0316034",
+          "age": 63,
+          "gender": "FEMALE",
+          "house_number": "1/1125-E37",
+          "relation_type": "HUSBAND",
+          "relation_name": "Pathan Ameerkhan",
+          "locality_name": "అడపాల స్ట్రీట్ / Adapala Street",
+          "source_pdf_page": 38
+        },
+        {
+          "id": "w8_voter_1625",
+          "ward_serial_number": 1625,
+          "epic_number": "RRV0479691",
+          "age": 79,
+          "gender": "FEMALE",
+          "house_number": "1-1131-JA",
+          "relation_type": "HUSBAND",
+          "relation_name": "Rmgareddi",
+          "locality_name": "అడపాల స్ట్రీట్ / Adapala Street",
+          "source_pdf_page": 64
+        }
+      ]
+    },
+    {
+      "name_original": "యం.ఓబులేసు",
+      "name_english": "Ym.obulesu",
+      "voter_count": 2,
+      "doors": [
+        "1-1125-53-D",
+        "1/1125-3E6"
+      ],
+      "voters": [
+        {
+          "id": "w8_voter_1178",
+          "ward_serial_number": 1178,
+          "epic_number": "MXK2734085",
+          "age": 56,
+          "gender": "MALE",
+          "house_number": "1/1125-3E6",
+          "relation_type": "FATHER",
+          "relation_name": "Ym.vemann",
+          "locality_name": "అడపాల స్ట్రీట్ / Adapala Street",
+          "source_pdf_page": 47
+        },
+        {
+          "id": "w8_voter_1516",
+          "ward_serial_number": 1516,
+          "epic_number": "MXK2715381",
+          "age": 39,
+          "gender": "MALE",
+          "house_number": "1-1125-53-D",
+          "relation_type": "FATHER",
+          "relation_name": "Ym.babu",
+          "locality_name": "అడపాల స్ట్రీట్ / Adapala Street",
+          "source_pdf_page": 60
+        }
+      ]
+    },
+    {
+      "name_original": "నరసింహులు కదిరి",
+      "name_english": "Narasimhulu Kadiri",
+      "voter_count": 2,
+      "doors": [
+        "1-1125-6-16-2",
+        "1/1125-6-16-2"
+      ],
+      "voters": [
+        {
+          "id": "w8_voter_1256",
+          "ward_serial_number": 1256,
+          "epic_number": "RRV1396531",
+          "age": 64,
+          "gender": "MALE",
+          "house_number": "1/1125-6-16-2",
+          "relation_type": "FATHER",
+          "relation_name": "Chennapp Kadiri",
+          "locality_name": "అడపాల స్ట్రీట్ / Adapala Street",
+          "source_pdf_page": 50
+        },
+        {
+          "id": "w8_voter_1258",
+          "ward_serial_number": 1258,
+          "epic_number": "RRV1545383",
+          "age": 64,
+          "gender": "MALE",
+          "house_number": "1-1125-6-16-2",
+          "relation_type": "FATHER",
+          "relation_name": "Chinnappa Ke",
+          "locality_name": "అడపాల స్ట్రీట్ / Adapala Street",
+          "source_pdf_page": 50
+        }
+      ]
+    }
+  ]
+}

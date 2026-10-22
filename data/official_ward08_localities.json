@@ -1,0 +1,83 @@
+[
+  {
+    "id": "adapala-street",
+    "name_en": "Adapala Street",
+    "name_te": "అడపాల స్ట్రీట్",
+    "display_name": "అడపాల స్ట్రీట్ / Adapala Street",
+    "total_voters": 1819,
+    "male_voters": 863,
+    "female_voters": 956,
+    "other_voters": 0,
+    "households_count": 900,
+    "sections": [
+      "62",
+      "63",
+      "68",
+      "69",
+      "70",
+      "71",
+      "76",
+      "77",
+      "79",
+      "80",
+      "81",
+      "82",
+      "83",
+      "84",
+      "85",
+      "86",
+      "87",
+      "88",
+      "89",
+      "109",
+      "113",
+      "128"
+    ]
+  },
+  {
+    "id": "water-tank-road",
+    "name_en": "Water Tank Road",
+    "name_te": "వాటర్ ట్యాంక్ రోడ్డు",
+    "display_name": "వాటర్ ట్యాంక్ రోడ్డు / Water Tank Road",
+    "total_voters": 178,
+    "male_voters": 84,
+    "female_voters": 94,
+    "other_voters": 0,
+    "households_count": 107,
+    "sections": [
+      "78",
+      "79",
+      "81"
+    ]
+  },
+  {
+    "id": "rs-road",
+    "name_en": "RS Road",
+    "name_te": "ఆర్ ఎస్ రోడ్డు",
+    "display_name": "ఆర్ ఎస్ రోడ్డు / RS Road",
+    "total_voters": 15,
+    "male_voters": 9,
+    "female_voters": 6,
+    "other_voters": 0,
+    "households_count": 13,
+    "sections": [
+      "80",
+      "81",
+      "82"
+    ]
+  },
+  {
+    "id": "rajiv-gandhi-nagar",
+    "name_en": "Rajiv Gandhi Nagar",
+    "name_te": "రాజీవ్ గాంధీ నగర్",
+    "display_name": "రాజీవ్ గాంధీ నగర్ / Rajiv Gandhi Nagar",
+    "total_voters": 1,
+    "male_voters": 1,
+    "female_voters": 0,
+    "other_voters": 0,
+    "households_count": 1,
+    "sections": [
+      "82"
+    ]
+  }
+]
